@@ -15,7 +15,7 @@ This project focuses on understanding the hidden patterns within music datasets 
 - Understand trends in genres, mood, energy, and popularity  
 - Predict important attributes such as track popularity  
 - Receive song recommendations based on similarity  
-- Use analytics in both web and desktop environments  
+- Uses data analytics in both web and desktop environments  
 
 The entire system is built to be simple to use, while still being technically rich, making it ideal for students, researchers, and data science enthusiasts.
 
