@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Music Prediction & Recommendation Analysis Project (Dark Neon)
 
 Run the Streamlit dashboard: `streamlit run music_app/app_streamlit/streamlit_dashboard_dark.py` from the project root.
