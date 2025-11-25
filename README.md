@@ -5,8 +5,9 @@ Run the Streamlit dashboard: `streamlit run music_app/app_streamlit/streamlit_da
 
 Run desktop demo: `python -m music_app.app_desktop.desktop_app` (or `python music_app/app_desktop/desktop_app.py`)
 
-Train models: `python -m music_app.ml.train_popularity` and `python -m music_app.ml.train_mood`
-=======
+Train models: python -m music_app.ml.train_popularity` and `python -m music_app.ml.train_mood
+====
+
 # **"Music Prediction and Recommendation System"**
 
 This project is a complete, end-to-end music intelligence system combining data analytics, professional data visualization, machine-learning predictions, and an interactive recommendation engine.  
@@ -316,4 +317,3 @@ Genre Match Weight
 This project provides a complete music analysis ecosystem.  
 Users can explore track trends, visualize characteristics, predict popularity, analyze mood and energy, and receive intelligent recommendations.  
 It is professional, modern, interactive, and perfect for academic or portfolio use.
->>>>>>> 0eff91da8d1d742c344b019f3b6af8e63a72d2cf
