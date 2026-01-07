@@ -219,5 +219,10 @@ UMAP, KMeans
 
 ---
 
-## 📄 LICENSE
-MIT License
+## 📄 MIT LICENSE
+
+This project is released under the MIT License and can be used, modified, or redistributed with proper credit.
+
+---
+
+
